@@ -1,0 +1,7 @@
+/** 1st Sesion
+    Author: Mónica Esteve
+*   Form1.cs
+*   13-may-2016: check cells, validate the text entered
+*   Tetboxt can only contain number 1 to 9
+*   Implements logic model, do the matrix to save the text entered
+*/

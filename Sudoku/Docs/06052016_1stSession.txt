@@ -1,0 +1,9 @@
+/** 1st Sesion
+    Author: Mónica Esteve
+*   Form1.Designer.cs
+*   06-may-2016: main form: screen, draw cells 9x9 
+*   Draw grid with 81 textbox to implement 9x9 matrix
+*   The textbox must have the right name (tbxNum) and the right TabIndex
+*   Behavior index (9x9 matrix) : 123 456 789 
+*	  		          XXX XXX XX81
+*/

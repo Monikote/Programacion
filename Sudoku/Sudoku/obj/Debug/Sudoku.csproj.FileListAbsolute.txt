@@ -1,0 +1,9 @@
+C:\Users\USUARU\Documents\Visual Studio 2015\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\USUARU\Documents\Visual Studio 2015\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\USUARU\Documents\Visual Studio 2015\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\USUARU\Documents\Visual Studio 2015\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.Screen.resources
+C:\Users\USUARU\Documents\Visual Studio 2015\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\USUARU\Documents\Visual Studio 2015\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\USUARU\Documents\Visual Studio 2015\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\USUARU\Documents\Visual Studio 2015\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\USUARU\Documents\Visual Studio 2015\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
